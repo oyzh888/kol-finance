@@ -1,0 +1,98 @@
+[
+  {
+    "id": "op-001",
+    "kolId": "macro-trend",
+    "title": "Geopolitical Headwinds in China",
+    "content": "China's market share in Huawei is the highest and segment is accelerating. Government bans on iPhones in state agencies are working in the world's largest smartphone market. Macro instability and cyclical risk is rising.",
+    "sentiment": "bearish",
+    "asset": "AAPL",
+    "confidence": 8,
+    "tags": ["#Apple", "#Geopolitics", "#China"],
+    "sourceUrl": "https://twitter.com/MacroTrend/status/123",
+    "publishedAt": "2026-02-14T08:30:00Z"
+  },
+  {
+    "id": "op-002",
+    "kolId": "tech-insights",
+    "title": "Ecosystem Lock-in & Services Growth Unstoppable",
+    "content": "The narrative that hardware sales are plateauing ignores the massive moat Apple has built in Services sector. With 2B+ active devices, the services growth engine is virtually unstoppable. Target Price: $220.",
+    "sentiment": "bullish",
+    "asset": "AAPL",
+    "confidence": 9,
+    "tags": ["#Services", "#Moat", "#LongAAPL"],
+    "sourceUrl": "https://twitter.com/TechInsights/status/456",
+    "publishedAt": "2026-02-14T09:15:00Z"
+  },
+  {
+    "id": "op-003",
+    "kolId": "deep-value",
+    "title": "Regulatory Risk Rising",
+    "content": "DOJ antitrust lawsuit is a serious overhang. The search engine deal alone is at risk. Potential breakup or forced opening of the App Store would devastate the high margin services revenue thesis. The market is pricing this risk far too low.",
+    "sentiment": "bearish",
+    "asset": "AAPL",
+    "confidence": 7,
+    "tags": ["#Apple", "#Regulation", "#DOJ"],
+    "sourceUrl": "https://twitter.com/DeepValue/status/789",
+    "publishedAt": "2026-02-14T10:00:00Z"
+  },
+  {
+    "id": "op-004",
+    "kolId": "value-seeker",
+    "title": "Apple Intelligence: The Supercycle Trigger",
+    "content": "Wall Street is underestimating the Apple Intelligence upgrade cycle. This isn't just software — it's hardware integration that necessitates new device purchases. 80% of current iPhones are pre-Apple Intelligence. This is the supercycle everyone wanted.",
+    "sentiment": "bullish",
+    "asset": "AAPL",
+    "confidence": 9,
+    "tags": ["#AI", "#Supercycle", "#Upgrade"],
+    "sourceUrl": "https://twitter.com/ValueSeeker/status/101",
+    "publishedAt": "2026-02-14T10:30:00Z"
+  },
+  {
+    "id": "op-005",
+    "kolId": "oldschool",
+    "title": "Innovation Stagnation",
+    "content": "Incrementalism updates (better camera, titanium frame) won't drive growth. The smartphone market is saturated with 7-year upgrade cycles. Competitors are moving faster in foldables and AI features. Apple needs a new category.",
+    "sentiment": "bearish",
+    "asset": "AAPL",
+    "confidence": 6,
+    "tags": ["#Innovation", "#Saturation", "#Market"],
+    "sourceUrl": "https://twitter.com/OldSchool/status/202",
+    "publishedAt": "2026-02-14T11:00:00Z"
+  },
+  {
+    "id": "op-006",
+    "kolId": "sv-insider",
+    "title": "Margins Expansion Story > Hardware Units",
+    "content": "Stop counting iPhone units. The story has shifted to margins. The new M4 MacBooks have higher margins and stronger ASPs, combined with services cross-selling. Operating margins should expand to record highs this year.",
+    "sentiment": "bullish",
+    "asset": "AAPL",
+    "confidence": 8,
+    "tags": ["#Margins", "#M4", "#Expansion"],
+    "sourceUrl": "https://twitter.com/SVInsider/status/303",
+    "publishedAt": "2026-02-14T11:30:00Z"
+  },
+  {
+    "id": "op-007",
+    "kolId": "crypto-joe",
+    "title": "Safe Haven in Volatile Macro",
+    "content": "When the market gets shaky, money flows to quality. Even if growth slows, the dividend and buyback program plus the fortress balance sheet make AAPL the ultimate safe haven. Trading at 28x is a gift.",
+    "sentiment": "bullish",
+    "asset": "AAPL",
+    "confidence": 7,
+    "tags": ["#SafeHaven", "#Quality", "#Cash"],
+    "sourceUrl": "https://twitter.com/CryptoJoe/status/404",
+    "publishedAt": "2026-02-14T12:00:00Z"
+  },
+  {
+    "id": "op-008",
+    "kolId": "bear-capital",
+    "title": "Valuation Stretched Beyond Reason",
+    "content": "AAPL at 30x forward earnings for a company growing revenue at 5% is absurd. The AI narrative is priced in. Services growth is decelerating. When the multiple compresses to 22x (still generous), that's a 25% drawdown.",
+    "sentiment": "bearish",
+    "asset": "AAPL",
+    "confidence": 8,
+    "tags": ["#Overvalued", "#PE", "#ShortAAPL"],
+    "sourceUrl": "https://twitter.com/BearCapital/status/505",
+    "publishedAt": "2026-02-14T12:30:00Z"
+  }
+]

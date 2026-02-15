@@ -1,0 +1,65 @@
+@import "tailwindcss";
+
+:root {
+  --background: #0a0a0f;
+  --foreground: #e4e4e7;
+  --card-bearish: #1a0a0a;
+  --card-bullish: #0a1a0f;
+  --border-bearish: #3f1515;
+  --border-bullish: #153f1f;
+  --accent-bearish: #ef4444;
+  --accent-bullish: #22c55e;
+  --surface: #111118;
+  --surface-hover: #1a1a24;
+  --muted: #71717a;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-surface: var(--surface);
+  --color-surface-hover: var(--surface-hover);
+  --color-muted: var(--muted);
+  --color-bearish: var(--accent-bearish);
+  --color-bullish: var(--accent-bullish);
+  --color-card-bearish: var(--card-bearish);
+  --color-card-bullish: var(--card-bullish);
+  --color-border-bearish: var(--border-bearish);
+  --color-border-bullish: var(--border-bullish);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--background);
+}
+::-webkit-scrollbar-thumb {
+  background: #333;
+  border-radius: 3px;
+}
+
+/* Sentiment gauge animation */
+@keyframes pulse-bearish {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.2); }
+  50% { box-shadow: 0 0 20px 4px rgba(239, 68, 68, 0.15); }
+}
+@keyframes pulse-bullish {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(34, 197, 94, 0.2); }
+  50% { box-shadow: 0 0 20px 4px rgba(34, 197, 94, 0.15); }
+}
+
+.card-bearish {
+  animation: pulse-bearish 3s ease-in-out infinite;
+}
+.card-bullish {
+  animation: pulse-bullish 3s ease-in-out infinite;
+}

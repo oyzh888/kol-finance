@@ -1,0 +1,19 @@
+{
+  "name": "01-kol-finance",
+  "version": "1.0.0",
+  "description": "**目标**: 构建金融KOL观点聚合展示平台 + 2个OpenClaw交易观点bot",
+  "main": "index.js",
+  "scripts": {
+    "scrape": "npx tsx scripts/scrape-twitter.ts",
+    "scrape:dry": "npx tsx scripts/scrape-twitter.ts --dry-run",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apify-client": "^2.22.1",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}

@@ -1,0 +1,440 @@
+[
+  {
+    "id": "op-2026-02-15-001",
+    "kolId": "michael-saylor",
+    "title": "Go Bitcoin Today — The Money Won't Fix Itself",
+    "content": "Saylor issued a fresh call to action: 'Go Bitcoin today. The money won't fix itself.' Strategy holds 714,644 BTC accumulated at an average cost of $76,056 per coin. Added another 1,142 BTC for ~$90M at an average of $78,815 this week. Bitcoin will double or triple the S&P over the next 4-8 years.",
+    "sourceType": "twitter",
+    "sourceUrl": "https://thecryptobasic.com/2026/02/13/michael-saylor-says-go-bitcoin-today-the-money-wont-fix-itself/",
+    "archiveUrl": null,
+    "sentiment": "bullish",
+    "asset": "BTC",
+    "confidence": 10,
+    "targetPrice": 250000,
+    "timeframe": "2028-12-31",
+    "tags": ["#Bitcoin", "#Strategy", "#HODL"],
+    "category": "price-prediction",
+    "publishedAt": "2026-02-13T14:00:00Z",
+    "addedAt": "2026-02-15T10:00:00Z",
+    "marketResult": {
+      "priceAtPost": 66500,
+      "currentPrice": 69800,
+      "priceChange": "+4.96%",
+      "outcome": "pending",
+      "checkpoints": [],
+      "finalVerified": false,
+      "verifiedAt": null
+    },
+    "engagement": {
+      "likes": 45200,
+      "retweets": 12800,
+      "replies": 3400
+    }
+  },
+  {
+    "id": "op-2026-02-15-002",
+    "kolId": "peter-schiff",
+    "title": "Bitcoin Below 13oz of Gold — Buyers Made a Huge Mistake",
+    "content": "Bitcoin is back below 13 ounces of gold — 64% below its November 2021 high when priced in gold. People who sold gold to buy Bitcoin made a huge mistake. The longer they wait to correct it, the more costly it becomes. Gold surging back above $5,000/oz while BTC languishes below $70K proves the point.",
+    "sourceType": "twitter",
+    "sourceUrl": "https://ambcrypto.com/a-huge-mistake-why-peter-schiff-says-bitcoin-buyers-got-it-wrong/",
+    "archiveUrl": null,
+    "sentiment": "bearish",
+    "asset": "BTC",
+    "confidence": 9,
+    "targetPrice": 10000,
+    "timeframe": "2027-12-31",
+    "tags": ["#Gold", "#Bitcoin", "#BearMarket"],
+    "category": "risk-warning",
+    "publishedAt": "2026-02-11T10:00:00Z",
+    "addedAt": "2026-02-15T10:00:00Z",
+    "marketResult": {
+      "priceAtPost": 65800,
+      "currentPrice": 69800,
+      "priceChange": "+6.08%",
+      "outcome": "pending",
+      "checkpoints": [],
+      "finalVerified": false,
+      "verifiedAt": null
+    },
+    "engagement": {
+      "likes": 18700,
+      "retweets": 5200,
+      "replies": 8900
+    }
+  },
+  {
+    "id": "op-2026-02-15-003",
+    "kolId": "michael-saylor",
+    "title": "Strategy Not Selling — Buying Every Quarter Forever",
+    "content": "Concerns that Strategy will be forced to sell bitcoin amid price declines are unfounded. We have enough liquidity to cover operating expenses for 2.5 years. We won't be selling bitcoin — we'll be buying every quarter forever. Even if BTC falls to $8,000, we'll refinance the debt rather than sell.",
+    "sourceType": "interview",
+    "sourceUrl": "https://www.cnbc.com/video/2026/02/10/strategys-michael-saylor-we-wont-be-selling-bitcoin-well-be-buying-every-quarter-forever.html",
+    "archiveUrl": null,
+    "sentiment": "bullish",
+    "asset": "BTC",
+    "confidence": 10,
+    "tags": ["#MSTR", "#Bitcoin", "#NeverSelling"],
+    "category": "market-analysis",
+    "publishedAt": "2026-02-10T20:00:00Z",
+    "addedAt": "2026-02-15T10:00:00Z",
+    "marketResult": {
+      "priceAtPost": 63200,
+      "currentPrice": 69800,
+      "priceChange": "+10.44%",
+      "outcome": "pending",
+      "checkpoints": [],
+      "finalVerified": false,
+      "verifiedAt": null
+    },
+    "engagement": {
+      "likes": 52000,
+      "retweets": 14500,
+      "replies": 4200
+    }
+  },
+  {
+    "id": "op-2026-02-15-004",
+    "kolId": "cathie-wood",
+    "title": "US Economy Is a Coiled Spring — Reaganomics on Steroids",
+    "content": "The underlying US economy is a coiled spring that could bounce back powerfully. The AI bubble is 'years away' — this is the most powerful capital spending cycle in history. What once was the cap in spending has become a floor. P/E multiples will drop toward 20x but productivity-driven acceleration in real GDP growth will more than compensate. Next three years could be Reaganomics on steroids.",
+    "sourceType": "blog",
+    "sourceUrl": "https://www.ark-invest.com/articles/market-commentary/cathie-woods-2026-outlook",
+    "archiveUrl": null,
+    "sentiment": "bullish",
+    "asset": "SPY",
+    "confidence": 9,
+    "targetPrice": 8000,
+    "timeframe": "2026-12-31",
+    "tags": ["#ARKInvest", "#AI", "#Economy", "#Innovation"],
+    "category": "market-analysis",
+    "publishedAt": "2026-01-15T12:00:00Z",
+    "addedAt": "2026-02-15T10:00:00Z",
+    "marketResult": {
+      "priceAtPost": 6780,
+      "currentPrice": 6836,
+      "priceChange": "+0.83%",
+      "outcome": "pending",
+      "checkpoints": [],
+      "finalVerified": false,
+      "verifiedAt": null
+    },
+    "engagement": {
+      "likes": 8900,
+      "retweets": 3100,
+      "replies": 1200
+    }
+  },
+  {
+    "id": "op-2026-02-15-005",
+    "kolId": "cathie-wood",
+    "title": "Biggest Buy of 2026: $50M Into Robinhood Despite 31% Plunge",
+    "content": "ARK poured $50 million into Robinhood (HOOD) in a single transaction — the biggest stock purchase of 2026. HOOD has fallen 31% YTD but now ranks as 9th-largest ARKK position at $328.5M (3.03% weight). Also bought $70M+ of crypto stocks and $43M of Alphabet as BTC slides. This is contrarian bargain hunting at its finest.",
+    "sourceType": "blog",
+    "sourceUrl": "https://www.thestreet.com/crypto/markets/cathie-wood-just-made-her-biggest-stock-purchase-of-2026",
+    "archiveUrl": null,
+    "sentiment": "bullish",
+    "asset": "HOOD",
+    "confidence": 8,
+    "tags": ["#ARK", "#HOOD", "#BargainHunting", "#Contrarian"],
+    "category": "trade-idea",
+    "publishedAt": "2026-02-12T16:00:00Z",
+    "addedAt": "2026-02-15T10:00:00Z",
+    "marketResult": {
+      "priceAtPost": 28.50,
+      "currentPrice": 27.80,
+      "priceChange": "-2.46%",
+      "outcome": "pending",
+      "checkpoints": [],
+      "finalVerified": false,
+      "verifiedAt": null
+    },
+    "engagement": {
+      "likes": 6200,
+      "retweets": 2100,
+      "replies": 890
+    }
+  },
+  {
+    "id": "op-2026-02-15-006",
+    "kolId": "raoul-pal",
+    "title": "This Is Not a Bear Market — Liquidity Peak Coming Q2 2026",
+    "content": "This is not the start of a bear market. I originally thought the crypto cycle was 4 years but now extended it to 5 — pushing the peak to 2026. The real liquidity demand will occur in 2026 because $10 trillion in debt needs refinancing. Our best guess: liquidity cycle peaks around Q2 2026. US fiscal stimulus, regulatory-driven money creation, and a weaker dollar all point to increased liquidity.",
+    "sourceType": "newsletter",
+    "sourceUrl": "https://coinpedia.org/news/raoul-pal-explains-why-the-crypto-market-isnt-broken-despite-recent-downturn/",
+    "archiveUrl": null,
+    "sentiment": "bullish",
+    "asset": "BTC",
+    "confidence": 8,
+    "targetPrice": 150000,
+    "timeframe": "2026-06-30",
+    "tags": ["#Macro", "#Liquidity", "#CyclePeak", "#Crypto"],
+    "category": "market-analysis",
+    "publishedAt": "2026-02-10T09:00:00Z",
+    "addedAt": "2026-02-15T10:00:00Z",
+    "marketResult": {
+      "priceAtPost": 63200,
+      "currentPrice": 69800,
+      "priceChange": "+10.44%",
+      "outcome": "pending",
+      "checkpoints": [],
+      "finalVerified": false,
+      "verifiedAt": null
+    },
+    "engagement": {
+      "likes": 22400,
+      "retweets": 7800,
+      "replies": 2100
+    }
+  },
+  {
+    "id": "op-2026-02-15-007",
+    "kolId": "willy-woo",
+    "title": "Short-Term BTC Strength, But 2026 Outlook Remains Cautious",
+    "content": "Expectations constructive for BTC from late January through February. Internal fund flow model shows BTC bottomed Dec 24th, steadily strengthening since — typically takes 2-3 weeks to reflect in price. Paper currency liquidity (futures) recovering like mid-2021. BUT: weakening long-term liquidity trends cloud the 2026 outlook. We're in final stages of a hot zone where momentum lacks sufficient liquidity support.",
+    "sourceType": "newsletter",
+    "sourceUrl": "https://mpost.io/willy-woo-strength-in-bitcoin-through-february-liquidity-trends-signal-caution-for-2026/",
+    "archiveUrl": null,
+    "sentiment": "bearish",
+    "asset": "BTC",
+    "confidence": 7,
+    "tags": ["#OnChain", "#Liquidity", "#Bitcoin", "#Analytics"],
+    "category": "market-analysis",
+    "publishedAt": "2026-02-08T11:00:00Z",
+    "addedAt": "2026-02-15T10:00:00Z",
+    "marketResult": {
+      "priceAtPost": 68200,
+      "currentPrice": 69800,
+      "priceChange": "+2.35%",
+      "outcome": "pending",
+      "checkpoints": [],
+      "finalVerified": false,
+      "verifiedAt": null
+    },
+    "engagement": {
+      "likes": 9800,
+      "retweets": 3200,
+      "replies": 1100
+    }
+  },
+  {
+    "id": "op-2026-02-15-008",
+    "kolId": "balaji-srinivasan",
+    "title": "Never Been More Bullish — Code-Based Order Rising",
+    "content": "I've never been more bullish on crypto. The rules-based order is collapsing and the code-based order is rising. Short-term price doesn't matter — international law will break down requiring onchain currencies AND onchain companies. We need internet capitalism, internet democracy, and internet privacy. Western governments will launch massive asset seizure campaigns as sovereign debt crises approach. Bitcoin is the exit.",
+    "sourceType": "twitter",
+    "sourceUrl": "https://bitcoinethereumnews.com/crypto/ive-never-been-more-bullish-on-crypto-balaji-srinivasan-on-why-todays-price-doesnt-reflect-whats-coming/",
+    "archiveUrl": null,
+    "sentiment": "bullish",
+    "asset": "BTC",
+    "confidence": 9,
+    "tags": ["#Crypto", "#NetworkState", "#Sovereignty"],
+    "category": "market-analysis",
+    "publishedAt": "2026-02-10T16:00:00Z",
+    "addedAt": "2026-02-15T10:00:00Z",
+    "marketResult": {
+      "priceAtPost": 63200,
+      "currentPrice": 69800,
+      "priceChange": "+10.44%",
+      "outcome": "pending",
+      "checkpoints": [],
+      "finalVerified": false,
+      "verifiedAt": null
+    },
+    "engagement": {
+      "likes": 31500,
+      "retweets": 9400,
+      "replies": 2800
+    }
+  },
+  {
+    "id": "op-2026-02-15-009",
+    "kolId": "peter-schiff",
+    "title": "Dollar Collapse Coming — Gold Is the Apex Predator",
+    "content": "The US could face a major economic crisis in 2026 driven by weak dollar, rising debt, and higher costs. Gold is the 'apex predator' that will eat Bitcoin. What's happening in gold and silver is a harbinger of a brewing financial storm — not a positive for Bitcoin. Cathie Wood is a fool. Most people won't realize that until they go broke following her advice.",
+    "sourceType": "twitter",
+    "sourceUrl": "https://www.ccn.com/education/crypto/us-economic-crisis-2026-peter-schiff-dollar-collapse-gold-beats-bitcoin/",
+    "archiveUrl": null,
+    "sentiment": "bullish",
+    "asset": "GLD",
+    "confidence": 9,
+    "targetPrice": 6000,
+    "timeframe": "2026-12-31",
+    "tags": ["#Gold", "#DollarCrisis", "#ApexPredator"],
+    "category": "price-prediction",
+    "publishedAt": "2026-02-14T15:00:00Z",
+    "addedAt": "2026-02-15T10:00:00Z",
+    "marketResult": {
+      "priceAtPost": 5061,
+      "currentPrice": 5072,
+      "priceChange": "+0.22%",
+      "outcome": "pending",
+      "checkpoints": [],
+      "finalVerified": false,
+      "verifiedAt": null
+    },
+    "engagement": {
+      "likes": 14200,
+      "retweets": 4100,
+      "replies": 6700
+    }
+  },
+  {
+    "id": "op-2026-02-15-010",
+    "kolId": "liz-ann-sonders",
+    "title": "Market Broadening — Rotation Is the New Momentum Trade",
+    "content": "Q4 earnings results generally solid but weaker on beat rates vs prior quarters. Key trend: less concentration within the S&P 500, more improvement among smaller-cap companies. Earnings beats aren't being rewarded as much, but misses are getting less punished. The new momentum trade is rotation. Macro environment unstable with policy crosscurrents, but stocks can churn higher given firmer earnings backdrop.",
+    "sourceType": "interview",
+    "sourceUrl": "https://www.schwab.com/learn/story/market-snapshot",
+    "archiveUrl": null,
+    "sentiment": "bullish",
+    "asset": "SPY",
+    "confidence": 6,
+    "tags": ["#Schwab", "#Earnings", "#Rotation", "#SmallCap"],
+    "category": "market-analysis",
+    "publishedAt": "2026-02-12T08:00:00Z",
+    "addedAt": "2026-02-15T10:00:00Z",
+    "marketResult": {
+      "priceAtPost": 6810,
+      "currentPrice": 6836,
+      "priceChange": "+0.38%",
+      "outcome": "pending",
+      "checkpoints": [],
+      "finalVerified": false,
+      "verifiedAt": null
+    },
+    "engagement": {
+      "likes": 3400,
+      "retweets": 890,
+      "replies": 340
+    }
+  },
+  {
+    "id": "op-2026-02-15-011",
+    "kolId": "jim-cramer",
+    "title": "Nvidia Is the GOAT — Muhammad Ali of the Stock Market",
+    "content": "Nvidia is the GOAT — the greatest of all time — like Muhammad Ali's industry prowess and resiliency in the boxing ring. If NVDA stock continues its downward trend, the $160 level is a solid time to buy. Also: the momentum to buy an iPhone is one of the strongest I've ever seen, especially back in China. Apple not getting enough credit. Prisoners of pessimism will NOT make money.",
+    "sourceType": "interview",
+    "sourceUrl": "https://www.cnbc.com/2026/02/05/cramer-nvidia-is-the-goat-the-muhammad-ali-of-the-stock-market.html",
+    "archiveUrl": null,
+    "sentiment": "bullish",
+    "asset": "NVDA",
+    "confidence": 8,
+    "targetPrice": 220,
+    "timeframe": "2026-06-30",
+    "tags": ["#NVDA", "#GOAT", "#BuyTheDip", "#MadMoney"],
+    "category": "trade-idea",
+    "publishedAt": "2026-02-05T22:00:00Z",
+    "addedAt": "2026-02-15T10:00:00Z",
+    "marketResult": {
+      "priceAtPost": 170.50,
+      "currentPrice": 182.78,
+      "priceChange": "+7.20%",
+      "outcome": "pending",
+      "checkpoints": [],
+      "finalVerified": false,
+      "verifiedAt": null
+    },
+    "engagement": {
+      "likes": 28100,
+      "retweets": 6400,
+      "replies": 3900
+    }
+  },
+  {
+    "id": "op-2026-02-15-012",
+    "kolId": "jim-cramer",
+    "title": "Tech Sell-Off Proves Diversification Rule — Buy Alphabet",
+    "content": "This tech sell-off proves why the old diversification rule still matters. Winning stocks recently came from health care and industrials, not tech. Tech-only portfolios getting beaten down. If you believe the constant barrage of negativity, you'll miss incredible buying opportunities in great stocks that rarely come cheap. Buy Alphabet ahead of earnings — expect terrific results.",
+    "sourceType": "interview",
+    "sourceUrl": "https://www.cnbc.com/2026/02/04/jim-cramer-tech-sell-off-proves-why-old-investing-rule-still-matters.html",
+    "archiveUrl": null,
+    "sentiment": "bullish",
+    "asset": "GOOG",
+    "confidence": 7,
+    "tags": ["#Diversification", "#GOOG", "#BuyTheDip"],
+    "category": "trade-idea",
+    "publishedAt": "2026-02-04T22:00:00Z",
+    "addedAt": "2026-02-15T10:00:00Z",
+    "marketResult": {
+      "priceAtPost": 198.40,
+      "currentPrice": 205.20,
+      "priceChange": "+3.43%",
+      "outcome": "pending",
+      "checkpoints": [],
+      "finalVerified": false,
+      "verifiedAt": null
+    },
+    "engagement": {
+      "likes": 15600,
+      "retweets": 3200,
+      "replies": 2100
+    }
+  },
+  {
+    "id": "op-2026-02-15-013",
+    "kolId": "willy-woo",
+    "title": "February Crash: Institutional Demand Reversed Materially",
+    "content": "The same institutional investors who previously supported BTC price are now selling. Basis trade collapse is real — hedge funds unwound as the trade paid less than 5%. Stablecoins lost nearly $14B from December through February; $7B in one week alone. CryptoQuant confirms: 'Institutional demand has reversed materially.' This looks like full-bore 2022-style crypto winter.",
+    "sourceType": "newsletter",
+    "sourceUrl": "https://www.cnbc.com/2026/02/05/bitcoin-prices-crypto-crash-selloff-investors.html",
+    "archiveUrl": null,
+    "sentiment": "bearish",
+    "asset": "BTC",
+    "confidence": 8,
+    "tags": ["#OnChain", "#Institutional", "#BasisTrade", "#CryptoWinter"],
+    "category": "risk-warning",
+    "publishedAt": "2026-02-05T18:00:00Z",
+    "addedAt": "2026-02-15T10:00:00Z",
+    "marketResult": {
+      "priceAtPost": 61000,
+      "currentPrice": 69800,
+      "priceChange": "+14.43%",
+      "outcome": "pending",
+      "checkpoints": [
+        {
+          "date": "2026-02-11",
+          "price": 66000,
+          "change": "+8.20%"
+        }
+      ],
+      "finalVerified": false,
+      "verifiedAt": null
+    },
+    "engagement": {
+      "likes": 11200,
+      "retweets": 4500,
+      "replies": 1800
+    }
+  },
+  {
+    "id": "op-2026-02-15-014",
+    "kolId": "peter-schiff",
+    "title": "Saylor's $8K Bitcoin Plan — Will Anyone Take You Seriously?",
+    "content": "Peter Schiff attacked Saylor's pledge to refinance debt even if Bitcoin crashes to $8,000 by 2030: 'Will anyone take you seriously?' Bitcoin has entered a prolonged bear market. BTC price declined as gold surges back above $5,000. The market is proving him right — Bitcoin is a speculative bubble while gold is real money. A severe currency crisis favors tangible stores of value.",
+    "sourceType": "twitter",
+    "sourceUrl": "https://www.benzinga.com/crypto/cryptocurrency/26/02/50614094/peter-schiff-blasts-michael-saylors-8000-bitcoin-plan-will-anyone-take-you-seriously",
+    "archiveUrl": null,
+    "sentiment": "bearish",
+    "asset": "BTC",
+    "confidence": 9,
+    "tags": ["#Schiff", "#Saylor", "#BTC", "#Gold"],
+    "category": "risk-warning",
+    "publishedAt": "2026-02-14T12:00:00Z",
+    "addedAt": "2026-02-15T10:00:00Z",
+    "marketResult": {
+      "priceAtPost": 68500,
+      "currentPrice": 69800,
+      "priceChange": "+1.90%",
+      "outcome": "pending",
+      "checkpoints": [],
+      "finalVerified": false,
+      "verifiedAt": null
+    },
+    "engagement": {
+      "likes": 21300,
+      "retweets": 5800,
+      "replies": 9200
+    }
+  }
+]
