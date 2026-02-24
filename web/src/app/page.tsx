@@ -221,7 +221,7 @@ function Scoreboard({ bulls, bears, neutrals, bullPct }: {
             style={{ background:"radial-gradient(ellipse at 50% 50%,rgba(255,192,0,0.06),transparent 70%)" }} />
           {/* Neutral count */}
           <div className="text-[9px] text-gray-500 font-mono uppercase tracking-widest mb-1">中立</div>
-          <div className="score-neutral text-3xl font-black text-[#ffc000] leading-none">⚖{neutrals.length}</div>
+          <div className="score-neutral text-3xl font-black text-[#ffc000] leading-none">{neutrals.length}</div>
           <div className="text-[9px] text-[#ffc000]/50 mt-1 mb-3">观望</div>
           {/* VS divider */}
           <div className="w-full h-px mb-3" style={{ background:"linear-gradient(to right,transparent,rgba(255,255,255,0.12),transparent)" }} />
