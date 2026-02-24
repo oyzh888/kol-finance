@@ -1,0 +1,218 @@
+[
+  {
+    "id": "op_w1_001",
+    "stockTicker": "NVDA",
+    "kol": {
+      "handle": "DanIves",
+      "name": "Dan Ives",
+      "title": "Wedbush Securities 科技分析师",
+      "platform": "twitter",
+      "followers": 290000,
+      "avatarUrl": "https://pbs.twimg.com/profile_images/1616571825706729477/Pn5B97MO_400x400.jpg"
+    },
+    "stance": "bull",
+    "confidence": "high",
+    "quote": "2026 is an inflection point for the AI buildout. Wall Street is significantly underestimating NVIDIA's demand drivers. The Blackwell ramp is exceeding all expectations.",
+    "sourceUrl": "https://fxopen.com/blog/en/analytical-nvidia-stock-price-targets/",
+    "sourceName": "FXOpen / Wedbush Research",
+    "publishedAt": "2026-02-20T00:00:00Z",
+    "tags": ["财报前看多", "目标价$275", "AI拐点"],
+    "keyPoints": [
+      "上调目标价至 $275，看涨幅度 +44%",
+      "2026年是AI建设的「拐点」，需求被严重低估",
+      "Blackwell 芯片出货量超预期，Q4财报将证明"
+    ]
+  },
+  {
+    "id": "op_w1_002",
+    "stockTicker": "NVDA",
+    "kol": {
+      "handle": "SriniPajjuri",
+      "name": "Srini Pajjuri",
+      "title": "RBC Capital Markets 分析师",
+      "platform": "analyst",
+      "followers": 85000,
+      "avatarUrl": "https://ui-avatars.com/api/?name=SP&background=1a1a2e&color=00ff88&size=80"
+    },
+    "stance": "bull",
+    "confidence": "high",
+    "quote": "We expect NVIDIA to report a solid Q4. Capex from hyperscalers remains healthy enough to support upside to current consensus estimates.",
+    "sourceUrl": "https://www.tipranks.com/news/top-rbc-capital-analyst-is-bullish-on-nvidia-stock-nvda-expects-solid-q4-earnings",
+    "sourceName": "TipRanks / RBC Capital",
+    "publishedAt": "2026-02-22T00:00:00Z",
+    "tags": ["Q4财报预期", "云厂资本支出健康", "Buy $240"],
+    "keyPoints": [
+      "维持 Buy 评级，目标价 $240（Feb 22，财报前2天）",
+      "超大规模云厂资本支出依然健康，支撑上行空间",
+      "HBM内存供应瓶颈是唯一潜在短板，但可控"
+    ]
+  },
+  {
+    "id": "op_w1_003",
+    "stockTicker": "NVDA",
+    "kol": {
+      "handle": "AletheiaCapital",
+      "name": "Aletheia Capital",
+      "title": "机构投资者，本周从Hold升级至Buy",
+      "platform": "analyst",
+      "followers": 42000,
+      "avatarUrl": "https://ui-avatars.com/api/?name=AC&background=1a1a2e&color=00ff88&size=80"
+    },
+    "stance": "bull",
+    "confidence": "high",
+    "quote": "NVIDIA is too cheap to ignore at current levels. The stock's recent underperformance has created a compelling entry point ahead of earnings.",
+    "sourceUrl": "https://www.kiplinger.com/investing/live/nvidia-earnings-live-updates-and-commentary-february-2026",
+    "sourceName": "Kiplinger（2026-02-23 今日）",
+    "publishedAt": "2026-02-23T00:00:00Z",
+    "tags": ["评级上调", "估值吸引", "逢低买入"],
+    "keyPoints": [
+      "本周从 Hold → Buy（今日最新升级）",
+      "Q4 NVDA 跑输大盘（-0.04% vs S&P500 +2.4%），创造买点",
+      "当前估值「太便宜了不能忽视」，财报催化剂即将到来"
+    ]
+  },
+  {
+    "id": "op_w1_004",
+    "stockTicker": "NVDA",
+    "kol": {
+      "handle": "DA_Davidson",
+      "name": "DA Davidson + JPMorgan",
+      "title": "双机构联合背书（今日）",
+      "platform": "analyst",
+      "followers": 0,
+      "avatarUrl": "https://ui-avatars.com/api/?name=DJ&background=1a1a2e&color=00ff88&size=80"
+    },
+    "stance": "bull",
+    "confidence": "medium",
+    "quote": "Both firms are backing NVIDIA ahead of Q4 earnings. DA Davidson maintains $250 target. The upcoming earnings report may not carry the market-moving weight it once did.",
+    "sourceUrl": "https://stocktwits.com/news-articles/markets/equity/nvidia-gets-backing-from-da-davidson-jp-morgan-ahead-of-q4-earnings-and-ai-growth-surge/cZRtxzwR4yY",
+    "sourceName": "StockTwits / 3小时前",
+    "publishedAt": "2026-02-23T18:00:00Z",
+    "tags": ["财报前背书", "目标价$250", "分散AI持仓"],
+    "keyPoints": [
+      "DA Davidson $250 目标价维持（今日确认）",
+      "JPMorgan 同步背书，看好 AI 增长周期",
+      "建议投资者同时关注多家AI公司，分散持仓"
+    ]
+  },
+  {
+    "id": "op_w2_008",
+    "stockTicker": "NVDA",
+    "kol": {
+      "handle": "MeiguYanjiushe",
+      "name": "美股研究社",
+      "title": "YouTube美股分析博主 · 48.4K粉丝",
+      "platform": "youtube",
+      "followers": 48400,
+      "avatarUrl": "https://i.postimg.cc/Fkt4RK3w/avatar.jpg"
+    },
+    "stance": "bear",
+    "confidence": "high",
+    "quote": "英伟达是市场最后一口气的支撑。若财报miss，市场将确认「圆弧顶」形态，面临潜在崩盘风险。",
+    "sourceUrl": "https://youtu.be/Uh0cEmpemCs?si=z5vBTFs8FVBNpg-Z",
+    "sourceName": "美股研究社 YouTube（财报前重磅分析）",
+    "publishedAt": "2026-02-22T00:00:00Z",
+    "tags": ["英伟达财报", "变盘点", "软件股崩盘", "圆弧顶风险"],
+    "keyPoints": [
+      "英伟达横盘8个月已到变盘点，财报决定反转还是崩盘",
+      "软件股暴跌因AI正抢夺传统软件利润，芯片股存在补跌风险",
+      "若财报miss，市场将确认「圆弧顶」并面临大幅回调"
+    ]
+  },
+  {
+    "id": "op_w1_005",
+    "stockTicker": "NVDA",
+    "kol": {
+      "handle": "247WallSt",
+      "name": "247 Wall St 分析师",
+      "title": "内幕交易警告：90天115次抛售，零买入",
+      "platform": "analyst",
+      "followers": 180000,
+      "avatarUrl": "https://ui-avatars.com/api/?name=WS&background=1a1a2e&color=ff4444&size=80"
+    },
+    "stance": "bear",
+    "confidence": "high",
+    "quote": "NVIDIA insiders completed 115 stock sales over 90 days with zero purchases during the recent price decline. Options market assigns only 52% probability stock holds above $180 after earnings.",
+    "sourceUrl": "https://247wallst.com/investing/2026/02/17/nvidia-nvda-trading-41-below-analyst-targets-after-recent-drop/",
+    "sourceName": "247 Wall St（Feb 17, 2026）",
+    "publishedAt": "2026-02-17T00:00:00Z",
+    "tags": ["内部人士抛售", "期权市场谨慎", "财报风险"],
+    "keyPoints": [
+      "90天内115次内部人士股票销售，零购买——重大警告",
+      "期权市场：仅52%概率股价在财报后守住$180",
+      "当前股价较分析师目标价折价 41%，反映不确定性"
+    ]
+  },
+  {
+    "id": "op_w1_006",
+    "stockTicker": "NVDA",
+    "kol": {
+      "handle": "Trefis",
+      "name": "Trefis Research",
+      "title": "「25x市盈率是最响亮的警告」",
+      "platform": "analyst",
+      "followers": 95000,
+      "avatarUrl": "https://ui-avatars.com/api/?name=TR&background=1a1a2e&color=ff4444&size=80"
+    },
+    "stance": "bear",
+    "confidence": "medium",
+    "quote": "NVIDIA's cheap 25x multiple may be the loudest warning yet. The Blackwell-to-Rubin transition forces an immediate upgrade cycle — customers who skip a generation risk a sizable performance deficit.",
+    "sourceUrl": "https://www.trefis.com/stock/nvda/articles/591115/nvidia-stocks-cheap-25x-multiple-the-loudest-warning-yet/2026-02-20",
+    "sourceName": "Trefis Research（Feb 20, 2026）",
+    "publishedAt": "2026-02-20T00:00:00Z",
+    "tags": ["估值陷阱", "Rubin升级周期", "技术迭代风险"],
+    "keyPoints": [
+      "25x PE「便宜」可能是市场对增长放缓的隐含定价",
+      "Blackwell → Rubin（H2 2026）强迫客户立即升级，收入存在断层风险",
+      "跳过一代芯片的客户将面临竞争力大幅落后"
+    ]
+  },
+  {
+    "id": "op_w2_007",
+    "stockTicker": "NVDA",
+    "kol": {
+      "handle": "SiyeGlobal",
+      "name": "视野环球财经",
+      "title": "YouTube财经博主 · 295K粉丝",
+      "platform": "youtube",
+      "followers": 295000,
+      "avatarUrl": "https://i.postimg.cc/9w3hMfZG/avatar.jpg"
+    },
+    "stance": "neutral",
+    "confidence": "medium",
+    "quote": "英伟达财报是寻找大盘止跌转折点的关键指标。科技权重股目前处于「打摆子」状态，上不去也下不深。",
+    "sourceUrl": "https://youtu.be/GT7sfcn6tzk?si=hbPSWYYvEB40ydwy",
+    "sourceName": "视野环球财经 YouTube（财报前分析）",
+    "publishedAt": "2026-02-22T00:00:00Z",
+    "tags": ["财报前观望", "大盘风向标", "NVDA"],
+    "keyPoints": [
+      "NVDA 财报是判断大盘止跌逻辑是否成立的关键转折点",
+      "科技权重股「打摆子」，上下空间均有限，方向未明",
+      "相比 NVDA 的不确定性，更倾向微软的稳健性"
+    ]
+  },
+  {
+    "id": "op_w2_009",
+    "stockTicker": "NVDA",
+    "kol": {
+      "handle": "LABanker",
+      "name": "精英财经 LABanker",
+      "title": "YouTube财经博主 · 60K粉丝",
+      "platform": "youtube",
+      "followers": 60000,
+      "avatarUrl": "https://i.postimg.cc/4HCgd3VM/avatar.jpg"
+    },
+    "stance": "neutral",
+    "confidence": "medium",
+    "quote": "下周英伟达财报将引发大波动，重点关注160关口支撑。部分机构已提前离场，当前处于斩杀线附近徘徊。",
+    "sourceUrl": "https://youtu.be/HwIptPTDR8U?si=SIu-r2E3E26e_i3D",
+    "sourceName": "精英财经 LABanker YouTube（2月底策略分析）",
+    "publishedAt": "2026-02-23T00:00:00Z",
+    "tags": ["NVDA", "财报大波动", "机构离场", "止损策略"],
+    "keyPoints": [
+      "财报将引发大波动，160关口是关键支撑，跌破则危险",
+      "部分机构已提前离场，市场处于「斩杀线」附近徘徊",
+      "2月底波动加剧，短线操作难度极大，建议观望"
+    ]
+  }
+]

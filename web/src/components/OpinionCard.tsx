@@ -25,44 +25,45 @@ export function OpinionCard({ opinion }: { opinion: OpinionWithKOL }) {
     <div
       className={`${bgColor} ${borderColor} ${pulseClass} rounded-xl border p-4 sm:p-5 transition-all`}
     >
-      {/* Header */}
+      {/* Headline: KOL 看好/看空 Asset */}
+      <div className="mb-3 flex items-center gap-2 flex-wrap">
+        <a
+          href={opinion.kol.twitterUrl || "#"}
+          target="_blank"
+          rel="noopener noreferrer"
+          className={`flex h-8 w-8 shrink-0 items-center justify-center rounded-full ${
+            isBearish ? "bg-bearish/20 text-bearish" : "bg-bullish/20 text-bullish"
+          } text-xs font-bold`}
+        >
+          {opinion.kol.avatar}
+        </a>
+        <span className="text-base font-bold text-foreground sm:text-lg">
+          {opinion.kol.name}
+        </span>
+        {opinion.kol.verified && (
+          <span className="text-blue-400 text-sm" title="Verified">&#10003;</span>
+        )}
+        <span className={`text-base font-bold sm:text-lg ${accentColor}`}>
+          {isBearish ? "看空" : "看好"}
+        </span>
+        <span
+          className={`rounded-lg px-2.5 py-1 text-base font-black sm:text-lg ${
+            isBearish ? "bg-bearish/20 text-bearish" : "bg-bullish/20 text-bullish"
+          }`}
+        >
+          {opinion.asset}
+        </span>
+      </div>
+
+      {/* Sub-header: handle, followers, time, source */}
       <div className="mb-3 flex items-center justify-between gap-2">
-        <div className="flex min-w-0 items-center gap-2.5">
-          <a
-            href={opinion.kol.twitterUrl || "#"}
-            target="_blank"
-            rel="noopener noreferrer"
-            className={`flex h-10 w-10 shrink-0 items-center justify-center rounded-full ${
-              isBearish ? "bg-bearish/20 text-bearish" : "bg-bullish/20 text-bullish"
-            } text-xs font-bold`}
-          >
-            {opinion.kol.avatar}
-          </a>
-          <div className="min-w-0">
-            <div className="flex items-center gap-1.5">
-              <a
-                href={opinion.kol.twitterUrl || "#"}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="truncate text-sm font-semibold text-foreground"
-              >
-                {opinion.kol.name}
-              </a>
-              {opinion.kol.verified && (
-                <span className="shrink-0 text-blue-400" title="Verified">
-                  &#10003;
-                </span>
-              )}
-            </div>
-            <div className="flex items-center gap-1.5 text-xs text-muted">
-              <span className="truncate">{opinion.kol.handle}</span>
-              {opinion.kol.followers && (
-                <span className="shrink-0">&middot; {opinion.kol.followers}</span>
-              )}
-            </div>
-          </div>
+        <div className="flex items-center gap-1.5 text-xs text-muted">
+          <span>{opinion.kol.handle}</span>
+          {opinion.kol.followers && (
+            <span>&middot; {opinion.kol.followers}</span>
+          )}
         </div>
-        <div className="flex shrink-0 flex-col items-end gap-0.5">
+        <div className="flex shrink-0 items-center gap-1.5">
           <span className="text-xs text-muted">{timeAgo}</span>
           {opinion.sourceType && (
             <span className="rounded bg-white/5 px-1.5 py-0.5 text-[10px] font-medium uppercase text-muted">
@@ -145,13 +146,6 @@ export function OpinionCard({ opinion }: { opinion: OpinionWithKOL }) {
             {tag}
           </span>
         ))}
-        <span
-          className={`rounded-md px-2 py-0.5 text-xs font-medium ${
-            isBearish ? "bg-bearish/20 text-bearish" : "bg-bullish/20 text-bullish"
-          }`}
-        >
-          ${opinion.asset}
-        </span>
         {opinion.category && (
           <span className="rounded-md bg-white/5 px-2 py-0.5 text-xs text-muted">
             {opinion.category}

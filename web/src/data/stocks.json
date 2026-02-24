@@ -1,0 +1,17 @@
+{
+  "stocks": {
+    "NVDA": {
+      "name": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "description": "全球最大GPU制造商 · Q4财报 2月25日（2天后）",
+      "currentPrice": 190.49,
+      "lastUpdated": "2026-02-23T21:00:00Z",
+      "summary": {
+        "bullCount": 4,
+        "bearCount": 2,
+        "neutralCount": 0,
+        "sentiment": "bullish"
+      }
+    }
+  }
+}

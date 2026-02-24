@@ -165,15 +165,16 @@ const BEARISH_KEYWORDS = [
 ];
 
 const ASSET_KEYWORDS: Record<string, string[]> = {
-  BTC: ["bitcoin", "btc", "$btc", "sats", "satoshi"],
-  ETH: ["ethereum", "eth", "$eth", "ether"],
+  BTC: ["bitcoin", "btc", "$btc", "sats", "satoshi", "halving"],
+  ETH: ["ethereum", "eth", "$eth", "ether", "vitalik"],
   SOL: ["solana", "sol", "$sol"],
-  NVDA: ["nvidia", "nvda", "$nvda"],
-  AAPL: ["apple", "aapl", "$aapl"],
+  NVDA: ["nvidia", "nvda", "$nvda", "jensen"],
   TSLA: ["tesla", "tsla", "$tsla"],
-  SPX: ["s&p", "sp500", "spx", "$spx", "spy", "$spy"],
-  GOLD: ["gold", "xau", "$gold"],
-  CRYPTO: ["crypto", "defi", "web3", "blockchain"],
+  AAPL: ["apple", "aapl", "$aapl"],
+  GOOGL: ["google", "googl", "$googl", "alphabet", "goog", "$goog"],
+  SPY: ["s&p", "sp500", "spx", "$spx", "spy", "$spy", "s&p 500"],
+  QQQ: ["nasdaq", "qqq", "$qqq", "nasdaq-100", "tech stocks"],
+  GLD: ["gold", "xau", "$gold", "gld", "$gld", "precious metal"],
 };
 
 function analyzeSentiment(text: string): "bullish" | "bearish" | "neutral" {
@@ -195,14 +196,23 @@ function analyzeSentiment(text: string): "bullish" | "bearish" | "neutral" {
   return "neutral";
 }
 
-function detectAsset(text: string): string {
+function detectAssets(text: string): string[] {
   const lower = text.toLowerCase();
+  const found: string[] = [];
   for (const [asset, keywords] of Object.entries(ASSET_KEYWORDS)) {
     for (const kw of keywords) {
-      if (lower.includes(kw)) return asset;
+      if (lower.includes(kw)) {
+        found.push(asset);
+        break;
+      }
     }
   }
-  return "CRYPTO";
+  return found.length > 0 ? found : ["CRYPTO"];
+}
+
+function detectAsset(text: string): string {
+  const assets = detectAssets(text);
+  return assets.join(" + ");
 }
 
 function extractTags(text: string): string[] {

@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "KOL Finance - Market Opinion Aggregator",
-  description: "Aggregated financial KOL opinions on market sentiment",
+  title: "KOL Sentiment Tracker",
+  description: "Stock KOL opinion aggregator - bull vs bear",
 };
 
 export default function RootLayout({
